@@ -11,3 +11,5 @@ elif a == 4:
     print("Cuatro")
 elif a == 5:
     print("Cinco")
+elif a ==6:
+    print("Seis")
